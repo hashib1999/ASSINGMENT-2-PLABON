@@ -190,6 +190,8 @@ hr {
 
 
 /* Tablate Device */
+@media (max-width: 1023px) {}
+
 @media (max-width: 767px) {
     h1 {
         font-size: 30px;
